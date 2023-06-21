@@ -1,0 +1,26 @@
+Business Requiremnt Specification
+Author:Aditya Waikar ( CDAC student)
+Title:ECommerce Business Requirements of Ecommerce-Web based application.
+Stakeholders:
+	  new customers,
+	  existing customer,
+	  sellers(prodecers)
+	  BOD
+
+Document generated with the help of  series of meetings  held 
+between stake holders, Domain Experts, Business Analysts
+First Draft : 21/06/2023
+Revised Draft: 21/06/2023
+
+
+Sir J.J. School of Art is one of the pioneering institutes of fine art education in India, since its establishment in 1878 in the current Campus, with generous donation of Jamshetji Jijibhoy, under the British administration. The School today stands in the heritage building with departments of drawing and painting, sculpture and modelling, mural, portraiture, print making, arts and crafts including ceramics, interior decoration, metal work and textiles; and teachers training with art teachers’ diploma, Art Masters and Diploma in Painting Education. The college has undergraduate and post graduate programs with BFA and MFA degrees conferred to the students.
+Sir J.J. School of Art wants to develope a web application where students from various art institutes sell their artwork to worldwide .
+
+
+
+Students could sell their Artwork easily using Electronic Store provide by Artsy web application.For every stakholder would be able have personalized Business Insight to take advantage for online shopping Experience.Customers , sellers , Shipping companies would be able to perform online business operations using ease of use.Business Operations Team would have Inventory management information,Customer Relations Information, Order Processing related details at their finger tips. Sales Team would be able to keep track of customers , their orders, stock of artworks for saling using customized user expereince using EComerce portal.
+Cutomers could update their personal information using Cutomer Profile mantained by ECommerce Portal.
+Sellers would be able to maintain product catalog as per demands of Buiness. ECommerce portal would take advantage of online payment transfer using possible EPayment gateways as well as online payment services available. For each stake holder Business workflows would be available in automated form.
+Shippers would be notified with new shipment for delivery. Cutomers could track orders placed from anywhere using online access to Portal.Shipper would be able to update delivery status of  parcels which are to be delivered from source to destination location.
+Online Solution would be able to increase  business Opertaions, customers and multiple products selling for sellers under one Portal.
+ECommerce solution would provide secure , personalized , simple user interface using smart devices, computer systems  to users of Vijay Sales. Solution would be extensile for future requirements of stakeholders.
